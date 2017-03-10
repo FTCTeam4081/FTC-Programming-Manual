@@ -9,6 +9,8 @@ Welcome to FTC Programing Book's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   installing.rst
 
 
 
