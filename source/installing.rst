@@ -21,12 +21,21 @@ It checks your code for bugs in realtime. Programming without it would mean that
 	 Don't install the emulator, you won't need it.
 
 #. Install the correct SDKs
-And SDK is a System Development Kit. It gives you the tools to work with a certain system. So like, if Java is the tool box, and SDK is like the kit with the drill and drill bits.
-	3.1 Open the Standalone SDK Manager
-Android Studio has many SDKs you can install. They corrospond with the different Android operating systems. FTC has limits on which phones they allow, and by extension, which operating systems they allow. So you don't have to install the SDKs for every Android operating system. The different SDKs are grouped by what are called APIs, or Application Programming Interfaces. These are numbered, which makes them a good way to differentiate SDK packages.
-For FTC you need the entire API 19 package, the entire API 21 package, and a few select packets from API 23 and 24. 
-So check them all and click install. Then go get lunch, this will take a while.
-Next we'll go over the installation of the FTC package itself.
+
+	 And SDK is a System Development Kit. It gives you the tools to work with a certain system.
+	 So like, if Java is the tool box, and SDK is like the kit with the drill and drill bits.
+
+   #. Open the Standalone SDK Manager
+
+		  Android Studio has many SDKs you can install. They corrospond with the different Android operating systems.
+			FTC has limits on which phones they allow, and by extension, which operating systems they allow.
+			So you don't have to install the SDKs for every Android operating system.
+			The different SDKs are grouped by what are called APIs, or Application Programming Interfaces.
+			These are numbered, which makes them a good way to differentiate SDK packages.
+
+		  For FTC you need the entire API 19 package, the entire API 21 package, and a few select packets from API 23 and 24. 
+			So check them all and click install. Then go get lunch, this will take a while.
+			Next we'll go over the installation of the FTC package itself.
 
 Installing the FTC Packet
 ==========================
